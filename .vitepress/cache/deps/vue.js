@@ -1,3 +1,4 @@
+import { serve } from "vitepress";
 import {
   BaseTransition,
   BaseTransitionPropsValidators,
@@ -321,3 +322,4 @@ export {
   withScopeId
 };
 //# sourceMappingURL=vue.js.map
+
